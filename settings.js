@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              K.PRABHASHA
+//                              𝙼𝚁.𝙹𝙰𝙽𝙸𝚈𝙰
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['380944814219'] //DO NOT CHANGE!
-global.premium = ['380944814219'] //DO NOT CHANGE!
-global.ownernomer = '380944814219' //DO NOT CHANGE!
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //DO NOT CHANGE!
+global.owner = ['94760845066'] //DO NOT CHANGE!
+global.premium = ['94760845066'] //DO NOT CHANGE!
+global.ownernomer = ['94760845066'] //DO NOT CHANGE!
+global.ownername = '⚜️𝙼𝚁 𝙹𝙰𝙽𝙸𝚈𝙰' //DO NOT CHANGE!
 global.botname = ' ✮𝐐𝐔𝐄𝐄𝐍--𝐄𝐋𝐒𝐀✮' //YOU CAN CHANGE<<<
 global.footer = '©_Kumuthu.'
 global.ig = 'https://github.com/nexusNw'
@@ -30,7 +30,7 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://sites.google.com/view/queenelsabot/home'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
 global.packname = ' ✮✮✮𝐐𝐔𝐄𝐄𝐍---𝐄𝐋𝐒𝐀✮✮✮' //YOU CAN CHANGE<<<
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯'
+global.author = '⚜️𝙼𝚁.𝙹𝙰𝙽𝙸𝚈𝙰❯❯'
 global.sessionName = 'session'
 global.prefa = ['','!','.','😂','❤','💠']
 global.sp = '⭔'
